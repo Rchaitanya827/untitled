@@ -6,6 +6,7 @@ public class squareRoot69 {
     }
     public static int solution(int number)
     {
+        System.out.println("in solution");
         if (number == 0 || number == 1) {
             return number;
         }
