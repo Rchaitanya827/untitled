@@ -10,7 +10,7 @@ public class squareRoot69 {
         if (number == 0 || number == 1) {
             return number;
         }
-
+        System.out.println("hi");
         int start = 1, end = number;
         int result = 0;
 
